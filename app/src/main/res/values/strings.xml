@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+    <string name="hintText">Enter User Name</string>
+    <string name="heading">Content Provider In Android</string>
+    <string name="insertButtontext">Enter Staff Name</string>
+    <string name="loadButtonText">Load Staff Name</string>
+</resources>
